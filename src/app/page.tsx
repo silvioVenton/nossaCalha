@@ -69,7 +69,7 @@ export default function Home() {
 
             <div className="telha">
                 <Image
-                  src="/Trapezio.png"
+                  src="/trapezio.png"
                   width={200}
                   height={300}
                   alt="telha de Termoacústica"
