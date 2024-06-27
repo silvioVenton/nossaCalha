@@ -3,6 +3,7 @@ import { Roboto } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
 import Image from "next/image";
+import { GoogleTagManager } from "@next/third-parties/google";
 
 
 const inter = Roboto({ weight: ['500'],
@@ -20,7 +21,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="pt">
+      <GoogleTagManager gtmId="GTM-MPC2WLH" />
       <body className={inter.className}>
         <div style={{zIndex:"-1", position:"fixed", width:"100vw", height:"100vh"}}>
             <Image

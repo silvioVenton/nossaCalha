@@ -44,13 +44,24 @@ export default function Home() {
                   className="imgFibro"
                 />
                 <h1>Telhas em Fibrocimento</h1>
-                <ul>
-                  <li>244 x 110 x 5mm</li>
-                  <li>244 x 110 x 5mm</li>
-                  <li>244 x 110 x 5mm</li>
-                  <li>244 x 110 x 5mm</li>
-                  <li>244 x 110 x 5mm</li>
-                </ul>
+                <div className="tabelaTelhas">
+                    <ul>
+                      <li>122 x 110 x 5mm</li>
+                      <li>153 x 110 x 5mm</li>
+                      <li>183 x 110 x 5mm</li>
+                      <li>213 x 110 x 5mm</li>
+                      <li>244 x 110 x 5mm</li>
+                    </ul>
+                    <ul>
+                      <li>122 x 110 x 6mm</li>
+                      <li>153 x 110 x 6mm</li>
+                      <li>183 x 110 x 6mm</li>
+                      <li>213 x 110 x 6mm</li>
+                      <li>244 x 110 x 6mm</li>
+                      <li>305 x 110 x 6mm</li>
+                      <li>366 x 110 x 6mm</li>
+                    </ul>
+                </div>
             </div>
 
 
@@ -63,7 +74,9 @@ export default function Home() {
                   className="imgMetal"
                 />
                 <h1>Telhas Metálicas</h1>
-                <h3>Fabricamos telhas com até 10 metros de comprimento</h3>
+                <div className="descricaoTelha">
+                    <h3>Fabricamos telhas com até 10 metros de comprimento</h3>
+                </div>
             </div>
 
 
