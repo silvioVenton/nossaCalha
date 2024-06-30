@@ -24,7 +24,7 @@ export default function Home() {
       </div>
       </section>
 
-      <Link href="https://wa.me/5511997865848" >
+      <Link href="https://wa.me/5511997865848" target="_blank" >
       <div className="btnOrcamentoWhats">
         <p>ORÇAMENTO NO WHATSAPP</p>
       </div>
