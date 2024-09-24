@@ -1,10 +1,23 @@
 import Image from "next/image";
 import Link from "next/link";
+import Fibrocimento from "../../components/Fibrocimento";
 
 export default function Home() {
   return (
     <main>
+      <Link href="https://wa.me/5511997865848?text=Quero%20saber%20mais%20sobre%20a%20promo%C3%A7%C3%A3o%20de%20fibrocimento" target="_blank">
+       <Image
+          src="/bannerPromo.png"
+          width={1000}
+          height={500}
+          alt="promoção de telha"
+          className="promo"
+          />
+      </Link>    
       <section className="containerEmpresa">
+        
+         
+        
       <div className="txtEmpresa">
         
         <p>Fabricação própria </p>
@@ -24,6 +37,9 @@ export default function Home() {
       </div>
       </section>
 
+      <Fibrocimento
+      />
+
       <Link href="https://wa.me/5511997865848" target="_blank" >
       <div className="btnOrcamentoWhats">
         <p>ORÇAMENTO NO WHATSAPP</p>
@@ -35,6 +51,7 @@ export default function Home() {
 
       <section className="containerProdutos">
         <div className="produtos">
+
           <div className="telha">
                 <Image
                   src="/fibrocimento.png"
