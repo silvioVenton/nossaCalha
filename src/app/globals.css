@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 
+
 .promo{
   width: 100%;
   height: auto;
@@ -13,13 +14,14 @@
   align-items: center;
   width: 100%;
   height: 15vh;
- 
+  background: #eef2f3;
   border-bottom: 3px solid rgb(192, 190, 190);
 }
 .menuBarLogo{
   justify-self: flex-start;
   margin-left: 2rem;
   margin-right: 2rem;
+  width: 200px;
 }
 .menuBarLink{
   display:flex;

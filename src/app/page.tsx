@@ -32,7 +32,7 @@ export default function Home() {
       <Fibrocimento
       />
 
-      <Link href="https://wa.me/5511997865848" target="_blank" >
+      <Link href="https://wa.me/5511997865848?text=Ola%2C%20estou%20vindo%20do%20site%20e%20gostaria%20de%20um%20or%C3%A7amento" target="_blank" >
       <div className="btnOrcamentoWhats">
         <p>ORÇAMENTO NO WHATSAPP</p>
       </div>

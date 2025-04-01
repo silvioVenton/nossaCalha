@@ -24,7 +24,8 @@ export default function RootLayout({
     <html lang="pt">
       <GoogleTagManager gtmId="GTM-MPC2WLH" />
       <body className={inter.className}>
-        <div style={{zIndex:"-1", position:"fixed", width:"100vw", height:"100vh"}}>
+          
+      <div style={{zIndex:"-1", position:"fixed", width:"100vw", height:"100vh"}}>
             <Image
             src="/telhadoEscola.jpg"
             alt="telhado da escola "
@@ -34,21 +35,18 @@ export default function RootLayout({
             />
         </div>
 
+
       <nav className="menuBar">
         <Image
-        src="/logoSimples.png"
+        src="/logoMenor.png"
         width={100}
         height={60}
         alt="logotipo nossa calha"
         className="menuBarLogo"
         priority
         />
-        <h1 style={{fontSize:"25px", color:"#fff"}}>A marca da sua cobertura</h1>
-        <div className="menuBarLink">
-          <li><Link href="/">Telhas</Link></li>
-          <li><Link href="/calhas">Calhas</Link></li>
-          <li><Link href="/acessorios">Acessórios</Link></li>
-        </div>
+        <h1 className="text-2xl color-slate-400">A marca da sua cobertura</h1>
+        
         
       </nav>
       {children}
