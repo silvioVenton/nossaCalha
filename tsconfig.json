@@ -21,6 +21,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/Membros/page.jsx", "src/app/estudo/page.jsx", "src/app/teste/page.tsx", "src/app/promocaoMetalica/page"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/Membros/page.jsx", "src/app/estudo/page.jsx", "src/app/teste/page.tsx", "src/app/promocaoMetalica/page.tsx"],
   "exclude": ["node_modules"]
 }
