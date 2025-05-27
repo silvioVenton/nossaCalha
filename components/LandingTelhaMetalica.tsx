@@ -31,11 +31,7 @@ const TelhaMetalicaPromocao = () => {
           {/* Preço e CTA */}
           <section
             className="relative w-full text-center text-white py-12 px-6 mb-10 rounded-xl shadow-2xl overflow-hidden"
-            style={{
-              backgroundImage: "url('/sua-imagem.jpg')", // Substitua pela imagem certa
-              backgroundSize: "cover",
-              backgroundPosition: "center",
-            }}
+           
           >
             <div className="absolute inset-0 bg-black/60 backdrop-blur-sm z-0"></div>
             <div className="relative z-10 max-w-3xl mx-auto">
@@ -116,7 +112,8 @@ const TelhaMetalicaPromocao = () => {
                 href="https://wa.me/55119997865848?text=Quero%20retirar%20a%20telha%20de%20fibrocimento%20direto%20na%20loja%20na%20Av.%20Pacaembu%20836"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-yellow-400 text-black px-8 py-4 rounded-full font-bold text-lg shadow hover:bg-yellow-300 transition-all"
+                className="bg-yellow-400 text-black px-4 sm:px-8 py-3 sm:py-4 rounded-full font-bold text-base sm:text-lg shadow hover:bg-yellow-300 transition-all text-center block w-full sm:w-auto"
+
               >
                 FALAR COM ATENDENTE PARA RETIRADA
               </a>

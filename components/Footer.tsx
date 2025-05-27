@@ -24,7 +24,7 @@ const Footer = () => {
             <li><a href="/#fibrocimento" className="hover:text-white transition-colors">Telhas de Fibrocimento</a></li>
             <li><a href="/#metalicas" className="hover:text-white transition-colors">Telhas Metálicas</a></li>
             <li><a href="/#termoacusticas" className="hover:text-white transition-colors">Telhas Termoacústicas</a></li>
-            <li><a href="#" className="hover:text-white transition-colors">Contato</a></li>
+            
           </ul>
         </div>
 
@@ -34,7 +34,7 @@ const Footer = () => {
           <ul className="text-sm space-y-2">
             <li>📍 Av. Pacaembu, 836 - Várzea Paulista/SP</li>
             <li>📞 (11) 99786-5848</li>
-            <li>✉️ contato@empresa.com.br</li>
+            <li>✉️ nossacalha@gmail.com</li>
             <li>🕒 Atendimento: Seg a Sex - 7h às 17h</li>
           </ul>
         </div>
