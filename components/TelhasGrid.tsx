@@ -22,7 +22,7 @@ const TelhasCards = () => {
           </Link>
 
           <Image
-            src="/fibrocimento.png"
+            src="/telhas/fibrocimento.webp"
             width={250}
             height={250}
             alt="telhaFibrocimento"
@@ -51,7 +51,7 @@ const TelhasCards = () => {
             
           </Link>
           <Image
-            src="/galvanizada.png"
+            src="/telhas/galvanizada.webp"
             width={250}
             height={250}
             alt="telhaMetálica"
@@ -69,7 +69,7 @@ const TelhasCards = () => {
         {/* Card 3 */}
         <div className="border border-gray-300 p-4 rounded-lg shadow-md transform transition duration-300 hover:scale-105">
           <Image
-            src="/trapezio.png"
+            src="/telhas/trapezio.webp"
             width={250}
             height={250}
             alt="telhaTermoacústica"

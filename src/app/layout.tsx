@@ -29,7 +29,7 @@ export default function RootLayout({
   return (
     <html lang="pt">
       <GoogleTagManager gtmId="GTM-MPC2WLH" />
-      <body className={inter.className + " bg-red-500"}>
+      <body className={inter.className }>
         {/* Navbar Responsiva */}
         <NavBar />
 
