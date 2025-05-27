@@ -49,7 +49,7 @@ const TelhaMetalicaPromocao = () => {
                 Fabricação própria sob medida – até 10 metros de comprimento
               </p>
               <a
-                href="https://wa.me/55119997865848?text=Quero%20aproveitar%20a%20promoção%20da%20telha%20metálica%20a%20R$35,00%20o%20metro%20linear!"
+                href="https://wa.me/5511997865848?text=Quero%20aproveitar%20a%20promoção%20da%20telha%20metálica%20a%20R$35,00%20o%20metro%20linear!"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-yellow-400 text-black px-8 py-4 rounded-full font-bold text-lg shadow-xl hover:bg-yellow-300 transition-all"
@@ -109,7 +109,7 @@ const TelhaMetalicaPromocao = () => {
 
             <div className="text-center">
               <a
-                href="https://wa.me/55119997865848?text=Quero%20retirar%20a%20telha%20de%20fibrocimento%20direto%20na%20loja%20na%20Av.%20Pacaembu%20836"
+                href="https://wa.me/5511997865848?text=Quero%20retirar%20a%20telha%20de%20fibrocimento%20direto%20na%20loja%20na%20Av.%20Pacaembu%20836"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-yellow-400 text-black px-4 sm:px-8 py-3 sm:py-4 rounded-full font-bold text-base sm:text-lg shadow hover:bg-yellow-300 transition-all text-center block w-full sm:w-auto"
@@ -125,7 +125,7 @@ const TelhaMetalicaPromocao = () => {
               Estoque limitado. Fabricamos conforme o seu pedido!
             </h3>
             <a
-              href="https://wa.me/55119997865848?text=Quero%20garantir%20minha%20telha%20metálica%20agora!"
+              href="https://wa.me/5511997865848?text=Quero%20garantir%20minha%20telha%20metálica%20agora!"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-yellow-500 text-black px-10 py-4 rounded-full font-bold text-xl shadow-xl hover:bg-yellow-400 transition"
