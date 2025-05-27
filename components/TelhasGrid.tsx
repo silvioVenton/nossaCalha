@@ -69,7 +69,7 @@ const TelhasCards = () => {
         {/* Card 3 */}
         <div className="border border-gray-300 p-4 rounded-lg shadow-md transform transition duration-300 hover:scale-105">
           <Image
-            src="/telhas/trapezio.webp"
+            src="/telhas/Trapezio.webp"
             width={250}
             height={250}
             alt="telhaTermoacústica"
