@@ -6,7 +6,7 @@ const TelhaMetalicaPromocao = () => {
     <>
       {/* FAIXA DE URGÊNCIA FIXA NO TOPO */}
       <div className="w-full bg-red-600 text-white text-center py-2 px-4 text-sm font-semibold shadow-md">
-        ⚠️ Últimos dias! Promoção exclusiva – Telhas Metálicas a R$ 35,00 o metro linear!
+        ⚠️ Últimos dias! Promoção exclusiva – Telhas Metálicas a R$ 36,00 o metro linear!
       </div>
 
       <main
@@ -43,7 +43,7 @@ const TelhaMetalicaPromocao = () => {
                 Aproveite o melhor preço direto da fábrica!
               </p>
               <span className="block text-6xl font-extrabold text-white drop-shadow mt-2 mb-4">
-                R$ 35,00
+                R$ 36,00
               </span>
               <p className="text-sm text-yellow-200 mb-6">
                 Fabricação própria sob medida – até 10 metros de comprimento

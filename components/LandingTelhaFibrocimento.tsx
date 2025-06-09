@@ -41,7 +41,7 @@ const LandingTelhaPromocao = () => {
                 Aproveite o melhor preço para sua obra!
               </p>
               <span className="block text-6xl font-extrabold text-white drop-shadow mt-2 mb-4">
-                R$ 49,50
+                R$ 49,00
               </span>
               <p className="text-sm text-yellow-200 mb-6">
                 Valor por unidade – Estoque limitado
