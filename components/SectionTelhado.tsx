@@ -8,18 +8,19 @@ const SectionTelhado = () => {
         
         {/* Imagem sugerida */}
         <div>
-          <img
+          {/*<img
             src="/images/obra-telhado.jpg" // 👉 substitua pela sua imagem (ex: telhado em construção ou casa moderna)
             alt="Importância do telhado na construção"
             className="w-full h-auto rounded-lg shadow-lg object-cover"
-          />
+          />*/}
+          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
+            O telhado é mais do que proteção. É segurança, conforto e valorização do seu imóvel.
+          </h2>
         </div>
 
         {/* Conteúdo textual */}
         <div>
-          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-            O telhado é mais do que proteção. É segurança, conforto e valorização do seu imóvel.
-          </h2>
+          
 
           
 

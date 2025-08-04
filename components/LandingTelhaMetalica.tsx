@@ -43,7 +43,7 @@ const TelhaMetalicaPromocao = () => {
                 Aproveite o melhor preço direto da fábrica!
               </p>
               <span className="block text-6xl font-extrabold text-white drop-shadow mt-2 mb-4">
-                R$ 36,00
+                R$ 33,00
               </span>
               <p className="text-sm text-yellow-200 mb-6">
                 Fabricação própria sob medida – até 10 metros de comprimento
