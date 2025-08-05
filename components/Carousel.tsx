@@ -42,7 +42,7 @@ export default function Carousel({ autoPlay = true, interval = 6000 }: CarouselP
       alt: "Imagem 3",
       mobile: "/mobileFibro.webp",
       tablet: "/bannerFibroTablet.webp",
-      desktop: "/bannerfibrosite.webp",
+      desktop: "/ofertassofibro.webp",
       link: "https://wa.me/5511947737992?text=Olá!%20Gostaria%20de%20orçamento%20da%20promoção%20do%20site%20sobre%20telhas%20Fibrocimento."
     },
   ]
