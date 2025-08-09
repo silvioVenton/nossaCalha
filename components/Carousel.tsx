@@ -32,6 +32,7 @@ export default function Carousel({ autoPlay = true, interval = 6000 }: CarouselP
       link: "https://wa.me/5599999999999?text=Olá!%20Tenho%20interesse%20nas%20telhas%20termoacústicas."
     },*/
     {
+      
       alt: "Imagem 2",
       mobile: "/mobileMetalica.webp",
       tablet: "/bannerMetalicaTablet.webp",
@@ -92,6 +93,7 @@ export default function Carousel({ autoPlay = true, interval = 6000 }: CarouselP
         {images.map((img, idx) => (
           <div className="keen-slider__slide relative" key={idx}>
             <a
+              className="bannerPromocao"
               href={img.link}
               target="_blank"
               rel="noopener noreferrer"
