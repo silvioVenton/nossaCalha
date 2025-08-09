@@ -28,7 +28,7 @@ const RetiradaLocal = () => {
 
       <div className="text-center">
         <a
-          href="https://wa.me/55119997865848?text=Quero%20retirar%20a%20telha%20de%20fibrocimento%20direto%20na%20loja%20na%20Av.%20Pacaembu%20836"
+          href="https://wa.me/5511947737992?text=Quero%20retirar%20a%20telha%20de%20fibrocimento%20direto%20na%20loja%20na%20Av.%20Pacaembu%20836"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block bg-yellow-400 text-black px-8 py-4 rounded-full font-bold text-lg shadow hover:bg-yellow-300 transition-all"

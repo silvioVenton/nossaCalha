@@ -22,7 +22,7 @@ const TelhaMetalica = () => {
           </ul>
           <div className="mt-6">
             <a
-  href="https://wa.me/5511997865848?text=Olá!%20Gostaria%20de%20um%20orçamento%20para%20telhas%20metálicas."
+  href="https://wa.me/5511947737992?text=Olá!%20Gostaria%20de%20um%20orçamento%20para%20telhas%20metálicas."
   target="_blank"
   rel="noopener noreferrer"
   className="inline-block bg-gray-900 text-white px-6 py-3 rounded-md hover:bg-gray-800 transition-all text-sm"
