@@ -47,7 +47,7 @@ const LandingTelhaPromocao = () => {
                 Valor por unidade – Estoque limitado
               </p>
               <a
-                href="https://wa.me/5511947737992?text=Quero%20aproveitar%20a%20promoção%20da%20telha%20de%20fibrocimento%20110x244x5mm!"
+                href="https://wa.me/5511947737992?text=Quero%20aproveitar%20a%20promoção%20da%20telha%20de%20fibrocimento%20244x110x5mm!"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-yellow-400 text-black px-8 py-4 rounded-full font-bold text-lg shadow-xl hover:bg-yellow-300 transition-all"

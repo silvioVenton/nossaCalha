@@ -6,7 +6,7 @@ const TelhaMetalicaPromocao = () => {
     <>
       {/* FAIXA DE URGÊNCIA FIXA NO TOPO */}
       <div className="w-full bg-red-600 text-white text-center py-2 px-4 text-sm font-semibold shadow-md">
-        ⚠️ Últimos dias! Promoção exclusiva – Telhas Metálicas a R$ 36,00 o metro linear!
+        ⚠️ Últimos dias! Promoção exclusiva – Telhas Metálicas a R$ 33,00 o metro linear!
       </div>
 
       <main
@@ -49,7 +49,7 @@ const TelhaMetalicaPromocao = () => {
                 Fabricação própria sob medida – até 10 metros de comprimento
               </p>
               <a
-                href="https://wa.me/5511947737992?text=Quero%20aproveitar%20a%20promoção%20da%20telha%20metálica%20a%20R$35,00%20o%20metro%20linear!"
+                href="https://wa.me/5511947737992?text=Quero%20aproveitar%20a%20promoção%20da%20telha%20metálica%20a%20R$33,00%20o%20metro%20linear!"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-yellow-400 text-black px-8 py-4 rounded-full font-bold text-lg shadow-xl hover:bg-yellow-300 transition-all"
