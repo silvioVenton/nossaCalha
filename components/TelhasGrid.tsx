@@ -17,7 +17,7 @@ const TelhasCards = () => {
                          shadow-lg hover:bg-red-700 transition-all duration-300"
               title="Aproveite a promoção">
             
-              OFERTA  IMPERDÍVEL R$49,00 cada
+              OFERTA  IMPERDÍVEL R$46,90 cada
             
           </Link>
 
@@ -47,7 +47,7 @@ const TelhasCards = () => {
                          shadow-lg hover:bg-red-700 transition-all duration-300"
               title="Aproveite a promoção">
             
-              OFERTA  IMPERDÍVEL R$33,00 o mt.
+              OFERTA  IMPERDÍVEL R$31,50 o mt.
             
           </Link>
           <Image

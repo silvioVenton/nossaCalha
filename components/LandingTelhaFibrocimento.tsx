@@ -6,7 +6,7 @@ const LandingTelhaPromocao = () => {
     <>
       {/* FAIXA FIXA DE URGÊNCIA NO TOPO */}
       <div className="w-full bg-red-600 text-white text-center py-2 px-4 text-sm font-semibold shadow-md z-50  left-0">
-        ⚠️ Últimos dias! Promoção exclusiva – Telhas fibrocimento 110x244x5mm por R$ 49,00!
+        ⚠️ Últimos dias! Promoção exclusiva – Telhas fibrocimento 110x244x5mm por R$ 46,90!
       </div>
 
       {/* HERO SECTION */}
@@ -41,7 +41,7 @@ const LandingTelhaPromocao = () => {
                 Aproveite o melhor preço para sua obra!
               </p>
               <span className="block text-6xl font-extrabold text-white drop-shadow mt-2 mb-4">
-                R$ 49,00
+                R$ 46,90
               </span>
               <p className="text-sm text-yellow-200 mb-6">
                 Valor por unidade – Estoque limitado
