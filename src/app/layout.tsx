@@ -28,7 +28,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt">
-      <GoogleTagManager gtmId="GTM-MPC2WLH" />
+      
       <body className={inter.className }>
         {/* Navbar Responsiva */}
         <NavBar />
@@ -37,6 +37,7 @@ export default function RootLayout({
         <WhatsAppFixed />
 
         {children}
+        <GoogleTagManager gtmId="GTM-MPC2WLH" />
 
         <Footer/>
       </body>
