@@ -5,10 +5,12 @@ const securityHeaders = [
     key: "Content-Security-Policy",
     value: `
       default-src 'self';
-      script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com;
+      script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.google-analytics.com https://www.googletagmanager.com/gtag/js;
       connect-src 'self' https://www.google-analytics.com https://www.googletagmanager.com;
-      img-src 'self' data: https://www.google-analytics.com https://www.googletagmanager.com;
-      frame-src https://www.googletagmanager.com;
+      img-src 'self' data: blob: https://www.google-analytics.com https://www.googletagmanager.com;
+      frame-src 'self' https://www.googletagmanager.com https://www.youtube.com https://www.google.com;
+      style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+      font-src 'self' https://fonts.gstatic.com;
     `.replace(/\s{2,}/g, ' ').trim(),
   },
 ];
@@ -17,10 +19,10 @@ module.exports = {
   async headers() {
     return [
       {
-        // Aplica os headers a todas as rotas
-        source: '/(.*)',
+        source: "/(.*)",
         headers: securityHeaders,
       },
     ];
   },
 };
+
