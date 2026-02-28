@@ -1,5 +1,5 @@
 // app/page.tsx
-import Carousel from "../../components/Carousel"
+
 import SectionTelhado from "../../components/SectionTelhado";
 import TelhasGrid from "../../components/TelhasGrid";
 import TelhaFibrocimento from "../../components/TelhaFibrocimento";
