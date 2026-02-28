@@ -10,7 +10,6 @@ export default function Home() {
  
   return (
     <main className="max-w-12xl mx-auto py-8">
-      
       <TelhasGrid />
       <SectionTelhado/>
       <TelhaFibrocimento/>
