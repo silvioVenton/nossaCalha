@@ -9,7 +9,7 @@ const TelhasCards = () => {
         {/* Card 1 com promoção */}
         <div className="relative border p-4 rounded-lg shadow-md transform transition duration-300 hover:scale-105 overflow-hidden">
 
-          {/* Selo redondo com link */}
+          {/* Selo redondo com link 
           <Link id='botaoRedondoFibrocimento' href="/promoFibro"
             
               className="absolute top-4 right-4 z-10 bg-red-600 text-white text-xs sm:text-sm font-bold 
@@ -19,7 +19,7 @@ const TelhasCards = () => {
             
               OFERTA  IMPERDÍVEL R$49,70 cada
             
-          </Link>
+          </Link>*/}
 
           <Image
             src="/telhas/fibrocimento.webp"
@@ -39,7 +39,7 @@ const TelhasCards = () => {
 
         {/* Card 2 */}
         <div className="border border-gray-300 p-4 rounded-lg shadow-md transform transition duration-300 hover:scale-105">
-          {/* Selo redondo com link */}
+          {/* Selo redondo com link 
           <Link id='botaoRedondoMetalica' href="/promoMetal"
             
               className="absolute top-4 right-4 z-10 bg-red-600 text-white text-xs sm:text-sm font-bold 
@@ -49,7 +49,7 @@ const TelhasCards = () => {
             
               OFERTA  IMPERDÍVEL R$33,00 o mt.
             
-          </Link>
+          </Link>*/}
           <Image
             src="/telhas/galvanizada.webp"
             width={250}
